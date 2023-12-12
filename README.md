@@ -13,7 +13,7 @@ Game repository: https://github.com/gabrielecirulli/2048.git
 Step 2: Create a docker file.
 
 Dockerfile
-```
+```Dockerfile
 FROM ubuntu:22.04
 
 RUN apt-get update
