@@ -34,7 +34,7 @@ docker build -t dharmaraj257/2048-game .
 ```
 Step 4: Run docker Container using docker image.
 ```
-docker run -d -p 80:80 dharmaraj257/2048-game
+docker run -d -p 80:80 dharmaraj257/2048-game 
 ```
 output:
 ![Screenshot (18)](https://github.com/dharmaraj257/aws-project/assets/100831265/2a72c5fd-3784-421c-970d-f7030b960ef3)
