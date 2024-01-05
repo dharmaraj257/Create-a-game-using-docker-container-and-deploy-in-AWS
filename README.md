@@ -1,14 +1,23 @@
 
-# Create a game using docker container and deploy in AWS Elastic Beanstalk.
+# Create a game using a docker container and deploy it in AWS Elastic Beanstalk.
+Create a game using docker image containerize game and docker containerized application deploy in AWS Cloud using elastic beanstalk Service.
+<br />
+<br />
+Project Architecture Diagram: <br />
+![do drawio](https://github.com/dharmaraj257/Create-a-game-using-docker-container-and-deploy-in-AWS-Elastic-Beanstalk/assets/100831265/ebf0f35a-c432-4a90-937c-060ae637d0b4) <br />
 
 
-Create a game using docker image containerize game and docker containerized application deploy in AWS Cloud using elastic beanstalk Service. 
+
+
+<br />
+<br />
+<br />
 
 Prerequisites 
 1.	Install docker in your local system 
 2.	Aws account 
 
-Step 1: Used 2048 GitHub repository to get the game file for containerization.
+Step 1: Used the 2048 GitHub repository to get the game file for containerization.
 Game repository: https://github.com/gabrielecirulli/2048.git
 
 Step 2: Create a docker file.
