@@ -4,6 +4,9 @@ Create a game using docker image containerize game and docker containerized appl
 <br />
 <br />
 Project Architecture Diagram: <br />
+<br />
+<br />
+
 ![do drawio](https://github.com/dharmaraj257/Create-a-game-using-docker-container-and-deploy-in-AWS-Elastic-Beanstalk/assets/100831265/ebf0f35a-c432-4a90-937c-060ae637d0b4) <br />
 
 
