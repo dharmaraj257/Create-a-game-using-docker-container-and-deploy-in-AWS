@@ -61,7 +61,7 @@ Step 5: Deploy Docker Container(game) on AWS
 5.	Select local file and upload your Docker file and select single instance.
 6.	Click next and in service access select Create and use new service role.
 7.	Give a service role name select keypair and add Ec2 instance profile.
-8.	Click next and select vpc and In Instance setting click activate public Ip address
+8.	Click next and select vpc and In Instance setting click activate public Ip address.
 9.	Select all Subnets. click next and leave default setting in instances
 10.	Click next review the application and submit
 11.	It will take time to launch service elastic beanstalk.
